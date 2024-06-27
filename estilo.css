@@ -7,12 +7,12 @@
 
 @font-face {
     font-family: 'Inter';
-    src: url(../fontes/Inter/Inter-VariableFont_slnt\,wght.ttf) format('Truetype');
+    src: url(fontes/Inter/Inter-VariableFont_slnt\,wght.ttf) format('Truetype');
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url(../fontes/Roboto_Mono/RobotoMono-VariableFont_wght.ttf) format('Truetype');
+    src: url(fontes/Roboto_Mono/RobotoMono-VariableFont_wght.ttf) format('Truetype');
 }
 
 :root {
